@@ -1,4 +1,4 @@
-# Tealomy
+# Zerades
 
 A software studio building products, platforms, and scalable systems.
 
