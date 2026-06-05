@@ -1,4 +1,4 @@
-# Zerades
+# ZERADES
 
 A software studio building products, platforms, and scalable systems.
 
